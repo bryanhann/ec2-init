@@ -1,0 +1,7 @@
+#sudo yum install -y python3.7
+sudo useradd -m bozo
+#git clone -b pi7 https://github.com/bryanhann/dot.config.myborg ~/myborg
+#pushd ~/myborg
+#./install
+#popd
+#bash
